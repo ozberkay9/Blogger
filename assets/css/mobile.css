@@ -1,0 +1,20 @@
+.navbar-top {
+  flex-direction: column;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem;
+  overflow: hidden;
+  height: 80px;
+}
+#training {
+  display: block;
+  width: 100%;
+}
+#training .item {
+  width: 100%;
+}
+#training .item .heading-medium {
+  text-align: center;
+}
+#training .item .heading-small {
+  text-align: justify;
+}
